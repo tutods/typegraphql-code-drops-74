@@ -23,7 +23,7 @@
 <h2 style="font-weight:300">📹 Video:</h2>
 
 <a href="https://www.youtube.com/watch?v=qMc5A5-Ktuw">
-  <img alt="Rocketseat" src="https://img.shields.io/badge/Youtube%20-%23000000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/>
+  <img alt="Rocketseat" src="https://img.shields.io/badge/Youtube%20Rocketseat%20-%23000000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 <div align="right" style="margin-top: 50px">
