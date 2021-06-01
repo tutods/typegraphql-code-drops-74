@@ -26,7 +26,6 @@
   <img alt="Rocketseat" src="https://img.shields.io/badge/Youtube%20-%23000000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
-
 <div align="right" style="margin-top: 50px">
 <h3 style="font-weight: 300">
 🧑🏻‍💻 About Me
