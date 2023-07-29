@@ -22,7 +22,7 @@
 		"apollo-server": "^2.25.0",
 		"class-validator": "^0.13.1",
 		"graphql": "^15.5.0",
-		"mongoose": "^5.12.12",
+		"mongoose": "^5.13.20",
 		"reflect-metadata": "^0.1.13",
 		"type-graphql": "^1.1.1"
 	},
